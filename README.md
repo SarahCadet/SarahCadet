@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- Photo here -->
-!(https://github.com/SarahCadet/SarahCadet/blob/main/Sarah%20professional%20photo.jpg)
+!(./'Sarah professional photo.jpg')
 ### Currently Learning
 1. AI/ML
 2. Cybersecurity
