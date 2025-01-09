@@ -1,12 +1,13 @@
 ## Hi there 👋
 <!-- Photo here -->
-(https://github.com/SarahCadet/SarahCadet/blob/main/Sarah%20professional%20photo.jpg)
+!(https://github.com/SarahCadet/SarahCadet/blob/main/Sarah%20professional%20photo.jpg)
 ### Currently Learning
 1. AI/ML
 2. Cybersecurity
 3. Cryptography
 ### Currently Working On
-
+1. Reading level for any book website
+2. Basic goodreads website
 ### How to Reach Me
 1. LinkedIn: https://www.linkedin.com/in/sarah-cadet-8052b7267/
 2. Email: scadet@bu.edu
