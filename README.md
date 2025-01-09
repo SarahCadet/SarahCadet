@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- Photo here -->
-!(./'Sarah professional photo.jpg')
+!(./Sarah%20professional%20photo.jpg)
 ### Currently Learning
 1. AI/ML
 2. Cybersecurity
