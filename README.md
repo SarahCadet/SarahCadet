@@ -1,6 +1,7 @@
 ## Hi there 👋
 <!-- Photo here -->
-![Professional Photo](./professphoto.jpg)
+  <img src="./professphoto.jpg" alt="Professional Photo" style="width: 200px; padding-top: -500px;">
+
 ### Currently Learning
 1. AI/ML
 2. Cybersecurity
