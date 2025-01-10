@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,terraform,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,terraform,html,css)](https://skillicons.dev)
 
 I am studying Computer Science at Boston University! I am interested in learning more about and working on AI/ML and/or gaming projects!
 
