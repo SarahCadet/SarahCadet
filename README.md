@@ -14,6 +14,10 @@ I am studying Computer Science at Boston University! I am interested in learning
 ### Currently Working On
 1. Reading level for any book website
 2. Basic goodreads website
+3. Leetcode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/scadet?theme=dark&font=Karla)
+
 ### How to Reach Me
 1. LinkedIn: https://www.linkedin.com/in/sarah-cadet-8052b7267/
 2. Email: scadet@bu.edu
