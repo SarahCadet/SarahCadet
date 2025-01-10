@@ -14,9 +14,9 @@ I am always looking for opportunities to expand my knowledge in Computer Science
 2. Cybersecurity
 3. Cryptography
 ### Currently Working On
-1. Reading level for any book website
-2. Basic goodreads website
-3. Leetcode
+1. A website that outputs an appropriate reading level when a book is entered
+2. Goodreads clone website (I want to see if I can create a personal alternative)
+3. Leetcode (Practice makes perfect!)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/scadet?theme=dark&font=Karla)
 
